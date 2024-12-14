@@ -1,4 +1,5 @@
 Requirements
+
 Bar Chart (30 points)
 Chart initializes without error (10 points)
 
